@@ -1,5 +1,5 @@
 # Employee Management System
-This project is created for Web Development with Java assignment, part of Open Elective course work in college. Created a dynamic web application to manage the details of employees using JSP.
+Created a dynamic web application to manage the details of employees using JSP. This project is created for Web Development with Java assignment, part of Open Elective course work in college. 
 
 ## About Project
 <ul>
